@@ -1,4 +1,4 @@
-print (1, 2, 3);
+write (1, 2, 3);
 
 print(6, "Teste");
  //Imprimir uma string, um núm. e outra string
