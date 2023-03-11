@@ -1,4 +1,4 @@
-package PadroesDeProjetoComJava;
+package PadroesDeProjetoComJava.PadroesGofCriacao;
 
 class ExportadorNota {  
     private NotaBuilder builder;
