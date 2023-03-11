@@ -1,6 +1,4 @@
-package PadroesDeProjetoComJava;
-
-import PadroesDeProjetoComJava.PadroesGofCriacao.RegistrarClienteXMLDecoder;
+package PadroesDeProjetoComJava.PadroesGofCriacao;
 
 public class ServicoIntegracao {
         /*public void registrarCliente (String textoMsg, String origem) {
