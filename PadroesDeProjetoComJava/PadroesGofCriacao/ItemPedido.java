@@ -1,4 +1,4 @@
-package PadroesDeProjetoComJava;
+package PadroesDeProjetoComJava.PadroesGofCriacao;
 
 import java.util.ArrayList;
 import java.util.Collection;
