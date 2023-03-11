@@ -1,4 +1,4 @@
-package PadroesDeProjetoComJava;
+package PadroesDeProjetoComJava.PadroesGofCriacao;
 
 public RegistrarClienteDecoder createRegistrarClienteDecoder() {
     HashMap<String, MsgRegistrarCliente>prototypes;
